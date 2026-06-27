@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/clueso-logo.png" alt="Clueso" width="88" height="88" />
+</p>
+
 # Clueso MCP
 
 > Make videos and docs with ChatGPT, Claude, and Gemini.
