@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.clueso/video",
   "title": "Clueso",
-  "description": "Create and edit on-brand explainer videos and docs with your AI agent.",
+  "description": "Make videos and docs with your AI agent — describe what you need, every output stays editable.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/desklamp-developers/clueso-mcp",
