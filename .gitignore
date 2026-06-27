@@ -1,0 +1,5 @@
+# Never commit DNS-auth / signing keys
+*.pem
+key*
+mcp-registry-keys/
+.mcpregistry_*
